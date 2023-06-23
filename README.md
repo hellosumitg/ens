@@ -1,6 +1,6 @@
 # The Ethereum Name Service
 
-![](https://i.imgur.com/UnxKYz2.png)
+![](https://i.imgur.com/eOvGgU7.png)
 
 
 ## Background
